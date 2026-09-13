@@ -1,0 +1,5 @@
+python-dotenv
+langchain-huggingface
+langchain-core
+streamlit
+pydantic
